@@ -1,0 +1,22 @@
+{
+  "name": "bewitch",
+  "version": "1.0.0",
+  "description": "bewitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwinata/bewitch.git"
+  },
+  "author": "xwinata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xwinata/bewitch/issues"
+  },
+  "homepage": "https://github.com/xwinata/bewitch#readme",
+  "dependencies": {
+    "semantic-ui": "^2.4.2"
+  }
+}
